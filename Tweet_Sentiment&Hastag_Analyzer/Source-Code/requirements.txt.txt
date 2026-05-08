@@ -1,0 +1,15 @@
+tweepy
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+textblob
+vaderSentiment
+transformers
+torch
+gensim
+langdetect
+wordcloud
+scikit-learn
+emoji
